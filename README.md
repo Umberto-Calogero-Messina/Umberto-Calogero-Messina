@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil]()
+<!--1. ![Imagen decorativa de tu perfil]()-->
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
