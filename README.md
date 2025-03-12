@@ -1,22 +1,15 @@
 <!--1. ![Imagen decorativa de tu perfil]()-->
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">Hi 👋, I'm Umberto</h1>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+- I am a Front-End Web Developer with 8 years of experience in the web and video game industry, specializing in system development. I focus on writing clean, scalable, and intuitive code, making collaboration between developers easier and ensuring efficient maintenance.
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- I have experience in programming languages such as C++, Python, Lua, and JavaScript, and am proficient in web development with HTML, CSS, React, and WordPress. I also have expertise in working with MySQL and MariaDB databases, and I am skilled in version control using GitHub and GitLab. Additionally, I possess conversational proficiency in English, Italian, Spanish, and Portuguese.
 
-- 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
+- All my projects are published on: <a href="https://github.com/Umberto-Calogero-Messina?tab=repositories">All Works</a>
 
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/url-de-codepen" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="url-de-codepen" height="30" width="40" />
-  </a>
+- You can contact me at: ucmessina@gmail.com
 
   <a href="https://dev.to/url-de-devto" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="url-de-devto" height="30" width="40" />
